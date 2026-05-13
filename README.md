@@ -19,7 +19,7 @@ distinct business question.
 ## Dashboard Pages
 
 ### 1. Executive Overview
-https://github.com/aravindhbAR-hash/Retail-Sales-Powerbi-Dashboard/blob/main/Screenshots/01-Executive-overview.png
+![Dashboard 1 Screenshot](Screenshots/01-Executive-overview.png)
 
 The top-level summary for leadership. Key KPIs displayed at a glance:
 
@@ -34,7 +34,7 @@ and Furniture. Year and quarter slicers allow filtering the entire page dynamica
 ---
 
 ### 2. Product Demand Intelligence
-https://github.com/aravindhbAR-hash/Retail-Sales-Powerbi-Dashboard/blob/main/Screenshots/02-Product-demand-intelligence.png
+![Dashboard 2 Screenshot](Screenshots/02-Product-demand-intelligence.png)
 
 Focuses on product-level performance and demand trends. Key metrics:
 
@@ -49,7 +49,7 @@ making it easy to spot which product lines deliver the best return.
 ---
 
 ### 3. Supply Chain Control
-https://github.com/aravindhbAR-hash/Retail-Sales-Powerbi-Dashboard/blob/main/Screenshots/03-Supply-chain-control.png
+![Dashboard 3 Screenshot](Screenshots/03-Supply-chain-control.png)
 
 Tracks fulfillment and logistics performance. Key metrics:
 
